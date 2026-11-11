@@ -1,0 +1,5 @@
+{
+  "name": "claude-model-router",
+  "owner": { "name": "solutioIT" },
+  "plugins": [{ "name": "model-router", "source": "./" }]
+}

@@ -1,0 +1,1 @@
+{ "name": "model-router", "version": "0.1.0", "description": "Routes each prompt by difficulty to a subagent with fitting model and effort; the main session never switches model." }
